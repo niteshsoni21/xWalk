@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--xwalk--niteshsoni21.hlx.page/sitemap-en.xml 
